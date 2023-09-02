@@ -1,4 +1,4 @@
-# Hi there, I'm Emmanuel - aka [Manny Codemonga](https://codemonga.netlify.app)! 👋 
+# Hi there, I'm Emmanuel - aka [Manny Codemonga](https://codemonga.com)! 👋 
 
 **`software developer`**
 
